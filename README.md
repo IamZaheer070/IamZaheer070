@@ -13,11 +13,11 @@
  
  💻  A passionate Software Developer with expertise in a variety of technologies
      My journey in the tech world has led me to wear multiple hats,
-     from crafting seamless Full Stack Web applications to delving
-     into the realms of Machine Learning and Natural Language Processing (NLP).
+     from crafting seamless **Full Stack Web** applications to delving
+     into the realms of **Machine Learning** and **Natural Language Processing** **(NLP)**.
  
  🚀 I’m currently learning **Stable Diffusion, AWS**
- ⚡  Fun fact ** I Ride Bikes**
+ ⚡  Fun fact **I Ride Bikes**
 
  </div>
 
@@ -27,7 +27,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c++,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,java,nextjs,python,mysql" /><br>
+
 </div>
 
 <br/>
