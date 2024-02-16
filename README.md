@@ -39,12 +39,34 @@
 </div>
         
 <br>     
-<h2 align="center"> Languages Frameworks Tools </h2>
+<h2 align="center"> Languages & Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" />
-    <img src="https://skillicons.dev/icons?i=c,java,nextjs,mysql,python,git,aws" /><br>
+    <!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<!-- More Languages and Tools -->
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=aws" />
+
 </div>
 <br/>
 <hr/>
