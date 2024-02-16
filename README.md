@@ -20,7 +20,16 @@
  ⚡  Fun fact **I Ride Bikes**
  </div>
  <hr/>
+<h2 align="center"> Reach me </h2>
+<div align="center"> 
+  <a href="mailto:zaheerahmad615@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/zaheer-ahmad-182b26146/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
+</div>
 <h2 align="center"> Frameworks & Liabraries </h2>
 <div align="center">
 	<image align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
