@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Software Developer</h3>
-<h4 align="center">ML Engineer | NLP </h3>
+<h4 align="center">ML Engineer | NLP | WEB FullStack</h3>
 
 <br/>
 
